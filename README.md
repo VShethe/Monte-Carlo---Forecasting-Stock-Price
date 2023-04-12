@@ -9,7 +9,7 @@
 
 
 1. Monte-Carlo-Simulation
- - Monte Carlo - Predicting Gross Profit
+  - Monte Carlo - Predicting Gross Profit
 
 ## Project Description
 
