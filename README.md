@@ -25,6 +25,14 @@ To use Monte Carlo simulation for predicting gross profit, you would first need 
 
 ```
 
+Predicting Gross Profit Graph:
+![image](https://user-images.githubusercontent.com/128286364/231418245-391f1b84-812b-4c30-a536-5da6773b9c11.png)
+
+
+![image](https://user-images.githubusercontent.com/128286364/231419531-3fec4b92-44e2-4de8-b6f7-b1e4f60defab.png)
+
+
+
 ## Installation
 
 To install iexfinance:
